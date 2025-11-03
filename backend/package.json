@@ -18,8 +18,8 @@
   "description": "Expense-Tracker is a user-friendly platform designed to streamline your financial management effortlessly. With Expense-Tracker, you can easily track expenses, manage income, and stay on top of your finances effortlessly. Easily add transactions, and navigate your dashboard with ease. Take control of your finances with Expense-Tracker.",
   "type": "module",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
